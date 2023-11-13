@@ -22,7 +22,7 @@
 </div>
 
 <div align=center>
-  <h2>React</h2>
+  <h2>:pushpin: React :pushpin:</h2>
   <p>This site was created using React.</p><br />
   
 <div align=center>
@@ -43,8 +43,6 @@
 
 <div align=center>
 	<h2>:mega: Platforms & Languages :mega: </h2>
-<br />
-  reate-webpage : https://github.com/L-jy16/react-webpage
 </div>
 <div align=center>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
