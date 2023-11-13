@@ -26,16 +26,21 @@
   <p>This site was created using React.</p><br />
   
 <div align=center>
-	<p>youtube : </p>
-  <a href="">
-	  
-    <img src="https://img.shields.io/badge/youtube_project-2E9AFE?style=flat&logo=Micro.vue&logoColor=white" />
-  </a>
   <p>webpage : https://lee-webpage-react.netlify.app/</p>
   <a href="https://vue-project-omega-vert.vercel.app/">
     <img src="https://img.shields.io/badge/react_webpage-2E9AFE?style=flat&logo=Micro.vue&logoColor=white" />
   </a>
+</div>
+
+<div align=center>
+  <h2>:pushpin: Vue :pushpin:</h2>
+  <p>This site was created using Vue</p><br />
   
+<div align=center>
+  <p>webpage : https://lee-webpage-vue.netlify.app/)/p>
+  <a href="https://lee-webpage-vue.netlify.app/">
+    <img src="https://img.shields.io/badge/vue_webpage-1370e1?style=flat&logo=Micro.vue&logoColor=white" />
+  </a>
 </div>
 
 
