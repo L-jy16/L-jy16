@@ -29,11 +29,11 @@
 	<p>youtube : </p>
   <a href="">
 	  
-    <img src="https://img.shields.io/badge/youtube-project-0B615E?style=flat&logo=Micro.reactg&logoColor=white" />
+    <img src="https://img.shields.io/badge/youtube_project-0B615E?style=flat&logo=Micro.reactg&logoColor=white" />
   </a>
   <p>webpage : https://lee-webpage-react.netlify.app/</p>
   <a href="https://vue-project-omega-vert.vercel.app/">
-    <img src="https://img.shields.io/badge/react-webpage-2E9AFE?style=flat&logo=Micro.vue&logoColor=white" />
+    <img src="https://img.shields.io/badge/react_webpage-2E9AFE?style=flat&logo=Micro.vue&logoColor=white" />
   </a>
   
 </div>
