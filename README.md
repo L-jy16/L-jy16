@@ -26,18 +26,14 @@
   <p>This site was created using React.</p><br />
   
 <div align=center>
-  <a href="https://react-project0106.web.app/">
-    <img src="https://img.shields.io/badge/react.js-0B615E?style=flat&logo=Micro.reactg&logoColor=white" />
+  <a href="">
+	  <p>youtube</p>
+    <img src="https://img.shields.io/badge/-reate-youtue-0B615E?style=flat&logo=Micro.reactg&logoColor=white" />
   </a>
   <a href="https://vue-project-omega-vert.vercel.app/">
     <img src="https://img.shields.io/badge/vue.js-0040FF?style=flat&logo=Micro.vue&logoColor=white" />
   </a>
-  <a href="https://lee-vite-project.netlify.app/">
-    <img src="https://img.shields.io/badge/vite.js-8000FF?style=flat&logo=Micro.blog&logoColor=white" />
-  </a>
-  <a href="https://lee-webpage-vue.netlify.app/">
-    <img src="https://img.shields.io/badge/next.js-04B486?style=flat&logo=Micro.blog&logoColor=white" />
-  </a>
+  
 </div>
 
 
