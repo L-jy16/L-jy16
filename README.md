@@ -109,5 +109,3 @@ Framer Motion 효과에 대해 공부하고 있습니다.
 
 </div>
 <br>
-
-![](./profile-3d-contrib/profile-season-animate.svg)
