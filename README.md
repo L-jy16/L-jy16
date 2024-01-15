@@ -45,6 +45,11 @@ Vue.js, React.js를 가지고 같은 웹 페이지를 각각 구현하였습니�
 [사이트 바로가기(Vue.js 버전)](https://lee-webpage-vue.netlify.app/) /
 [사이트 바로가기(React.js 버전)](https://lee-webpage-react.netlify.app/)
 
+### ✨Promptopia Site✨
+next.js와 mongodb, next-auth을 활용하여 Prompty 공유 사이트를 구현하였습니다.
+<br/>
+[사이트 바로가기]([https://lee-movie.netlify.app/](https://next-project-promptopia-seven.vercel.app/))
+
 ### 🔨ADD-PLUS Site(진행중)🔨
 Node.js와 MongoDB, Firebase, Naver Cloud을 활용하여 대학 관련 포털 사이트를 구현하고 있습니다.
 <br/>
