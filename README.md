@@ -50,14 +50,11 @@ next.js와 mongodb, next-auth을 활용하여 Prompty 공유 사이트를 구현
 <br/>
 [사이트 바로가기](https://next-project-promptopia-seven.vercel.app/)
 
-### 🔨ADD-PLUS Site(진행중)🔨
-Node.js와 MongoDB, Firebase, Naver Cloud을 활용하여 대학 관련 포털 사이트를 구현하고 있습니다.
-<br/>
-
 ### 🔨React Effect(진행중)🔨
 Framer Motion 효과에 대해 공부하고 있습니다.
 <br/>
 <br/>
+
 
 ----
 
