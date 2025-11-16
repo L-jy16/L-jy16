@@ -9,9 +9,10 @@
   <br/>
   <br/>
   <h3>😎My Portfolio😎</h3>
-  <a href="https://jiyoung-portfolio.fly.dev/">
+  <!--  <a href="https://jiyoung-portfolio.fly.dev/">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
+-->
 </div>
 <br />
 
@@ -19,7 +20,7 @@
 
 ## My Project😁
 
-### ✨Javascript✨
+<!-- ### ✨Javascript✨
 Javascript를 활용하여 데이터 저장하기, 데이터 불러오기, 데이터 실행하기, 데이터 제어하기 등을 공부하였습니다
 <br/>
 [사이트 바로가기](http://ljy16.dothome.co.kr/javascript/index.html)
@@ -27,7 +28,7 @@ Javascript를 활용하여 데이터 저장하기, 데이터 불러오기, 데�
 ### ✨Myuduck Site✨
 PHP를 활용하여 뮤지컬 포털사이트를 구현하였습니다.
 <br/>
-[사이트 바로가기](http://ljy16.dothome.co.kr/myuduck/main/main.php)
+[사이트 바로가기](http://ljy16.dothome.co.kr/myuduck/main/main.php) -->
 
 ### ✨Youtube Site✨
 React.js와 Youtube API를 활용하여 나만의 유튜브 사이트를 구현하였습니다.
