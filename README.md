@@ -8,8 +8,9 @@
   </span>
   <br/>
   <br/>
-  <!-- <h3>😎My Portfolio😎</h3>
-   <a href="https://jiyoung-portfolio.fly.dev/">
+  <h3>😎My Portfolio😎</h3>
+	<p>🛠️고치는 중⚒️</p>
+  <!--  <a href="https://jiyoung-portfolio.fly.dev/">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	-->
