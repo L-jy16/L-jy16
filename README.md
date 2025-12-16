@@ -62,7 +62,7 @@ Built a prompt-sharing platform using Next.js, MongoDB, and NextAuth.
 A Node.js web application for managing study plans, featuring user authentication, CRUD operations, AI API integration, and a calendar for schedule management.  
 *Note: Core functionality implemented; deployment/build is pending.*
 <br/>
-[View code]([https://next-project-promptopia-seven.vercel.app/](https://github.com/L-jy16/stuby_plan_project))
+[View code](https://github.com/L-jy16/stuby_plan_project)
 
 ### 🔨React Effect(진행중)🔨
 Currently learning and experimenting with animation effects using Framer Motion.
