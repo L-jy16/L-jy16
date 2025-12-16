@@ -26,15 +26,15 @@ I am continuously studying and experimenting with frontend and backend technolog
 
 ## My Project😁
 
-<!-- ### ✨Javascript✨
+### ✨Javascript✨
 Javascript를 활용하여 데이터 저장하기, 데이터 불러오기, 데이터 실행하기, 데이터 제어하기 등을 공부하였습니다
 <br/>
-[사이트 바로가기](http://ljy16.dothome.co.kr/javascript/index.html)
+[View code]([https://github.com/L-jy16/webs2024/tree/main](https://github.com/L-jy16/webs2024/tree/main)
 
 ### ✨Myuduck Site✨
 PHP를 활용하여 뮤지컬 포털사이트를 구현하였습니다.
 <br/>
-[사이트 바로가기](http://ljy16.dothome.co.kr/myuduck/main/main.php) -->
+[View code](http://ljy16.dothome.co.kr/myuduck/main/main.php)
 
 ### ✨Youtube Site✨
 <!--
@@ -58,6 +58,12 @@ Implemented the same web page using both Vue.js and React.js to compare framewor
 Built a prompt-sharing platform using Next.js, MongoDB, and NextAuth.
 <br/>
 [View site](https://next-project-promptopia-seven.vercel.app/)
+
+### ✨Study planner✨
+A Node.js web application for managing study plans, featuring user authentication, CRUD operations, AI API integration, and a calendar for schedule management.  
+*Note: Core functionality implemented; deployment/build is pending.*
+<br/>
+[View code]([https://next-project-promptopia-seven.vercel.app/](https://github.com/L-jy16/stuby_plan_project))
 
 ### 🔨React Effect(진행중)🔨
 Currently learning and experimenting with animation effects using Framer Motion.
@@ -90,6 +96,7 @@ Currently learning and experimenting with animation effects using Framer Motion.
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white">
   <img alt="firebase" src="https://img.shields.io/badge/firebase-F80000?logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <br /><br />
 </div>
 
