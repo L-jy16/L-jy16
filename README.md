@@ -3,8 +3,12 @@
 
 <div align=center>
   <span>
+	  <!--
   안녕하세요~!!! 프론트엔드와 백엔드에 관심 많은 신입 개발자 이지영입니다!!<br/>
-  현재 프론트엔와 백엔드에 대해 열심히 공부하고 시도해보면서 경험을 쌓아가고 있습니다.
+  현재 프론트엔와 백엔드에 대해 열심히 공부하고 시도해보면서 경험을 쌓아가고 있습니다. -->
+	  I’m Jiyoung Lee, a junior developer with a strong interest in both frontend and backend development. <br/>
+
+I am continuously studying and experimenting with frontend and backend technologies to build real-world experience through hands-on projects.
   </span>
   <br/>
   <br/>
