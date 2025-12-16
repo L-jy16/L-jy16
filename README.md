@@ -26,13 +26,12 @@ I am continuously studying and experimenting with frontend and backend technolog
 
 ## My Project😁
 
-### ✨Javascript✨
-Javascript를 활용하여 데이터 저장하기, 데이터 불러오기, 데이터 실행하기, 데이터 제어하기 등을 공부하였습니다
-<br/>
-[View code]([https://github.com/L-jy16/webs2024/tree/main](https://github.com/L-jy16/webs2024/tree/main)
+### ✨JavaScript✨
+Studied how to store, retrieve, execute, and manipulate data using JavaScript.  <br/>
+[View code](https://github.com/L-jy16/webs2024/tree/main)
 
 ### ✨Myuduck Site✨
-PHP를 활용하여 뮤지컬 포털사이트를 구현하였습니다.
+Developed a musical portal website using PHP.
 <br/>
 [View code](http://ljy16.dothome.co.kr/myuduck/main/main.php)
 
